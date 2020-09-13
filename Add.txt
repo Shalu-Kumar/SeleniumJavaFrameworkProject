@@ -1,12 +1,1 @@
-Test Cases of test01_add.py:
 
-TEST ID: CDB1
-Use Case: Add New Computer
-Test Name: test001_add_computer_with_all_valid_company_field
-Purpose: Test add new computer with all available company names values
-Prerequisite: Access add new computer page
-Steps: 
-1- get all available options for company names drop down menu.
-2- add new computer with each company name.
-3- validate the new computer added successfully
-Expected results: All valid company names should succeed
